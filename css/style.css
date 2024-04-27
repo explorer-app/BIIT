@@ -233,7 +233,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  background-color: #f9fafa;
+  background-color: #ffffff;
 }
 
 .slider_section .row {
@@ -336,14 +336,14 @@ a:focus {
   background-color: #f89646;
 }
 
-.furniture_section .box {
+.service_section .box {
   margin-top: 45px;
   background-color: #f7fafa;
   padding: 25px;
   border-radius: 5px;
 }
 
-.furniture_section .box .img-box {
+.service_section .box .img-box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -357,21 +357,21 @@ a:focus {
   padding: 25px;
 }
 
-.furniture_section .box .img-box img {
+.service_section .box .img-box img {
   max-width: 100%;
   max-height: 100%;
 }
 
-.furniture_section .box .detail-box {
+.service_section .box .detail-box {
   margin-top: 15px;
 }
 
-.furniture_section .box .detail-box h5 {
+.service_section .box .detail-box h5 {
   text-transform: uppercase;
   font-size: 18px;
 }
 
-.furniture_section .box .detail-box .price_box {
+.service_section .box .detail-box .price_box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -380,15 +380,15 @@ a:focus {
           justify-content: space-between;
 }
 
-.furniture_section .box .detail-box .price_box .price_heading {
+.service_section .box .detail-box .price_box .price_heading {
   margin-bottom: 0;
 }
 
-.furniture_section .box .detail-box .price_box .price_heading span {
+.service_section .box .detail-box .price_box .price_heading span {
   color: #6bb7be;
 }
 
-.furniture_section .box .detail-box .price_box a {
+.service_section .box .detail-box .price_box a {
   color: #6bb7be;
   text-transform: uppercase;
   font-size: 15px;
