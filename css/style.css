@@ -1,6 +1,13 @@
 /* fonts import */
 @import url("../fonts/octin_sports_rg.ttf");
 
+body {
+  font-family: "Poppins", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
 header{
   position: fixed;
   z-index: 99;
@@ -9,13 +16,6 @@ header{
 
 section{
   margin-top: 50px;
-}
-
-body {
-  font-family: "Poppins", sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff;
-  overflow-x: hidden;
 }
 
 .layout_padding {
