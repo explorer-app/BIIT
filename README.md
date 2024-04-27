@@ -1,2 +1,2 @@
 # BIIT
-A Portfolio Institute Information Technology
+A Portfolio Baidehi Institute Information Technology
