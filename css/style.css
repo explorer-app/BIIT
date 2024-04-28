@@ -118,6 +118,8 @@ a:focus {
 a:hover,
 a:focus {
   color: initial;
+  font-weight: bolder;
+
 }
 
 .btn,
